@@ -1,6 +1,3 @@
-#Informacion personal
-#Direccion
-
 print("Tupla numero 1")
 nombre = input("Escriba su nombre: ")
 edad = input("Escriba su edad: ")
